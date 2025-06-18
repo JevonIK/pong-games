@@ -1,0 +1,112 @@
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform)\Pong Game 1 (Winform)\bin\Debug\Pong Game 1 (Winform).exe.config
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform)\Pong Game 1 (Winform)\bin\Debug\Pong Game 1 (Winform).exe
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform)\Pong Game 1 (Winform)\bin\Debug\Pong Game 1 (Winform).pdb
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform)\Pong Game 1 (Winform)\obj\Debug\Pong Game 1 (Winform).csproj.AssemblyReference.cache
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform)\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.CharacterForm.resources
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform)\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.Properties.Resources.resources
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform)\Pong Game 1 (Winform)\obj\Debug\Pong Game 1 (Winform).csproj.GenerateResource.cache
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform)\Pong Game 1 (Winform)\obj\Debug\Pong Game 1 (Winform).csproj.CoreCompileInputs.cache
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform)\Pong Game 1 (Winform)\obj\Debug\Pong Game 1 (Winform).exe
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform)\Pong Game 1 (Winform)\obj\Debug\Pong Game 1 (Winform).pdb
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform)\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.Pong.resources
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - Modif 1\Pong Game 1 (Winform)\bin\Debug\Pong Game 1 (Winform).exe.config
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - Modif 1\Pong Game 1 (Winform)\bin\Debug\Pong Game 1 (Winform).exe
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - Modif 1\Pong Game 1 (Winform)\bin\Debug\Pong Game 1 (Winform).pdb
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - Modif 1\Pong Game 1 (Winform)\obj\Debug\Pong Game 1 (Winform).csproj.AssemblyReference.cache
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - Modif 1\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.Pong.resources
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - Modif 1\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.CharacterForm.resources
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - Modif 1\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.Properties.Resources.resources
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - Modif 1\Pong Game 1 (Winform)\obj\Debug\Pong Game 1 (Winform).csproj.GenerateResource.cache
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - Modif 1\Pong Game 1 (Winform)\obj\Debug\Pong Game 1 (Winform).csproj.CoreCompileInputs.cache
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - Modif 1\Pong Game 1 (Winform)\obj\Debug\Pong Game 1 (Winform).exe
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - Modif 1\Pong Game 1 (Winform)\obj\Debug\Pong Game 1 (Winform).pdb
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - Modif 1\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.player1Win.resources
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - Modif 1\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.player2Win.resources
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - Modif 1\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.PauseOption.resources
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - Modif 1\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.FormMulti.resources
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - Modif 1\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.Form2Multi.resources
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - Modif 1\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.PauseOptionMulti.resources
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - Modif 1 (full feature)\Pong Game 1 (Winform)\bin\Debug\Pong Game 1 (Winform).exe.config
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - Modif 1 (full feature)\Pong Game 1 (Winform)\bin\Debug\Pong Game 1 (Winform).exe
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - Modif 1 (full feature)\Pong Game 1 (Winform)\bin\Debug\Pong Game 1 (Winform).pdb
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - Modif 1 (full feature)\Pong Game 1 (Winform)\obj\Debug\Pong Game 1 (Winform).csproj.AssemblyReference.cache
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - Modif 1 (full feature)\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.Form2Multi.resources
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - Modif 1 (full feature)\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.FormMulti.resources
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - Modif 1 (full feature)\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.Pong.resources
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - Modif 1 (full feature)\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.CharacterForm.resources
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - Modif 1 (full feature)\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.PauseOptionMulti.resources
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - Modif 1 (full feature)\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.PauseOption.resources
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - Modif 1 (full feature)\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.player1Win.resources
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - Modif 1 (full feature)\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.player2Win.resources
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - Modif 1 (full feature)\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.Properties.Resources.resources
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - Modif 1 (full feature)\Pong Game 1 (Winform)\obj\Debug\Pong Game 1 (Winform).csproj.GenerateResource.cache
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - Modif 1 (full feature)\Pong Game 1 (Winform)\obj\Debug\Pong Game 1 (Winform).csproj.CoreCompileInputs.cache
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - Modif 1 (full feature)\Pong Game 1 (Winform)\obj\Debug\Pong Game 1 (Winform).exe
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - Modif 1 (full feature)\Pong Game 1 (Winform)\obj\Debug\Pong Game 1 (Winform).pdb
+D:\ALGORTIHM & PROGRAMMING\Pong Game 1 (Winform) - Modif 1 (full feature)\Pong Game 1 (Winform)\obj\Debug\Pong Game 1 (Winform).csproj.AssemblyReference.cache
+D:\ALGORTIHM & PROGRAMMING\Pong Game 1 (Winform) - Modif 1 (full feature)\Pong Game 1 (Winform)\obj\Debug\Pong Game 1 (Winform).exe
+D:\ALGORTIHM & PROGRAMMING\Pong Game 1 (Winform) - Modif 1 (full feature)\Pong Game 1 (Winform)\obj\Debug\Pong Game 1 (Winform).pdb
+D:\Users\jevon (Data D)\Kuliah storage\Pong Game 1 (Winform) - Modif 1 (full feature) (sherin 1)\Pong Game 1 (Winform) - Modif 1 (full feature)\Pong Game 1 (Winform)\obj\Debug\Pong Game 1 (Winform).csproj.AssemblyReference.cache
+D:\Users\jevon (Data D)\Kuliah storage\Pong Game 1 (Winform) - Modif 1 (full feature) (sherin 1)\Pong Game 1 (Winform) - Modif 1 (full feature)\Pong Game 1 (Winform)\obj\Debug\Pong Game 1 (Winform).exe
+D:\Users\jevon (Data D)\Kuliah storage\Pong Game 1 (Winform) - Modif 1 (full feature) (sherin 1)\Pong Game 1 (Winform) - Modif 1 (full feature)\Pong Game 1 (Winform)\obj\Debug\Pong Game 1 (Winform).pdb
+D:\Users\jevon (Data D)\Kuliah storage\Pong Game 1 (Winform) - Modif 1 (full feature) (sherin 1)\Pong Game 1 (Winform) - Modif 1 (full feature)\Pong Game 1 (Winform)\bin\Debug\Pong Game 1 (Winform).exe.config
+D:\Users\jevon (Data D)\Kuliah storage\Pong Game 1 (Winform) - Modif 1 (full feature) (sherin 1)\Pong Game 1 (Winform) - Modif 1 (full feature)\Pong Game 1 (Winform)\bin\Debug\Pong Game 1 (Winform).exe
+D:\Users\jevon (Data D)\Kuliah storage\Pong Game 1 (Winform) - Modif 1 (full feature) (sherin 1)\Pong Game 1 (Winform) - Modif 1 (full feature)\Pong Game 1 (Winform)\bin\Debug\Pong Game 1 (Winform).pdb
+D:\Users\jevon (Data D)\Kuliah storage\Pong Game 1 (Winform) - Modif 1 (full feature) (sherin 1)\Pong Game 1 (Winform) - Modif 1 (full feature)\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.ChooseCourt.resources
+D:\Users\jevon (Data D)\Kuliah storage\Pong Game 1 (Winform) - Modif 1 (full feature) (sherin 1)\Pong Game 1 (Winform) - Modif 1 (full feature)\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.Form2Multi.resources
+D:\Users\jevon (Data D)\Kuliah storage\Pong Game 1 (Winform) - Modif 1 (full feature) (sherin 1)\Pong Game 1 (Winform) - Modif 1 (full feature)\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.FormMulti.resources
+D:\Users\jevon (Data D)\Kuliah storage\Pong Game 1 (Winform) - Modif 1 (full feature) (sherin 1)\Pong Game 1 (Winform) - Modif 1 (full feature)\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.Pong.resources
+D:\Users\jevon (Data D)\Kuliah storage\Pong Game 1 (Winform) - Modif 1 (full feature) (sherin 1)\Pong Game 1 (Winform) - Modif 1 (full feature)\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.CharacterForm.resources
+D:\Users\jevon (Data D)\Kuliah storage\Pong Game 1 (Winform) - Modif 1 (full feature) (sherin 1)\Pong Game 1 (Winform) - Modif 1 (full feature)\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.GameOver.resources
+D:\Users\jevon (Data D)\Kuliah storage\Pong Game 1 (Winform) - Modif 1 (full feature) (sherin 1)\Pong Game 1 (Winform) - Modif 1 (full feature)\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.PauseOptionMulti.resources
+D:\Users\jevon (Data D)\Kuliah storage\Pong Game 1 (Winform) - Modif 1 (full feature) (sherin 1)\Pong Game 1 (Winform) - Modif 1 (full feature)\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.PauseOption.resources
+D:\Users\jevon (Data D)\Kuliah storage\Pong Game 1 (Winform) - Modif 1 (full feature) (sherin 1)\Pong Game 1 (Winform) - Modif 1 (full feature)\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.player1Win.resources
+D:\Users\jevon (Data D)\Kuliah storage\Pong Game 1 (Winform) - Modif 1 (full feature) (sherin 1)\Pong Game 1 (Winform) - Modif 1 (full feature)\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.player2Win.resources
+D:\Users\jevon (Data D)\Kuliah storage\Pong Game 1 (Winform) - Modif 1 (full feature) (sherin 1)\Pong Game 1 (Winform) - Modif 1 (full feature)\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.Properties.Resources.resources
+D:\Users\jevon (Data D)\Kuliah storage\Pong Game 1 (Winform) - Modif 1 (full feature) (sherin 1)\Pong Game 1 (Winform) - Modif 1 (full feature)\Pong Game 1 (Winform)\obj\Debug\Pong Game 1 (Winform).csproj.GenerateResource.cache
+D:\Users\jevon (Data D)\Kuliah storage\Pong Game 1 (Winform) - Modif 1 (full feature) (sherin 1)\Pong Game 1 (Winform) - Modif 1 (full feature)\Pong Game 1 (Winform)\obj\Debug\Pong Game 1 (Winform).csproj.CoreCompileInputs.cache
+D:\Users\jevon (Data D)\Kuliah storage\Pong Game 1 (Winform) - Modif 1 (full feature) (sherin 1)\Pong Game 1 (Winform) - Modif 1 (full feature)\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.ChooseCourtMulti.resources
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - FINAL MODIF\Pong Game 1 (Winform)\bin\Debug\Pong Game 1 (Winform).exe.config
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - FINAL MODIF\Pong Game 1 (Winform)\bin\Debug\Pong Game 1 (Winform).exe
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - FINAL MODIF\Pong Game 1 (Winform)\bin\Debug\Pong Game 1 (Winform).pdb
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - FINAL MODIF\Pong Game 1 (Winform)\obj\Debug\Pong Game 1 (Winform).csproj.AssemblyReference.cache
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - FINAL MODIF\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.ChooseCourtMulti.resources
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - FINAL MODIF\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.ChooseCourt.resources
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - FINAL MODIF\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.Form2Multi.resources
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - FINAL MODIF\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.FormMulti.resources
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - FINAL MODIF\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.Pong.resources
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - FINAL MODIF\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.CharacterForm.resources
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - FINAL MODIF\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.GameOver.resources
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - FINAL MODIF\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.PauseOptionMulti.resources
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - FINAL MODIF\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.PauseOption.resources
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - FINAL MODIF\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.player1Win.resources
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - FINAL MODIF\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.player2Win.resources
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - FINAL MODIF\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.Properties.Resources.resources
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - FINAL MODIF\Pong Game 1 (Winform)\obj\Debug\Pong Game 1 (Winform).csproj.GenerateResource.cache
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - FINAL MODIF\Pong Game 1 (Winform)\obj\Debug\Pong Game 1 (Winform).csproj.CoreCompileInputs.cache
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - FINAL MODIF\Pong Game 1 (Winform)\obj\Debug\Pong Game 1 (Winform).exe
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - FINAL MODIF\Pong Game 1 (Winform)\obj\Debug\Pong Game 1 (Winform).pdb
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - FINAL MODIF\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.player1WinMulti.resources
+D:\Users\jevon (Data D)\Loker Kuliah\Coding C# Kuliah\Pong Game 1 (Winform) - FINAL MODIF\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.player2WinMulti.resources
+D:\Users\jevon (Data D)\Arsip Kuliah\Arsip Semester 1\Algorithm & Programming Language (A)\Coding C# Kuliah (Semester 1)\Pong Game 1 (Winform) - FINAL MODIF\Pong Game 1 (Winform)\bin\Debug\Pong Game 1 (Winform).exe.config
+D:\Users\jevon (Data D)\Arsip Kuliah\Arsip Semester 1\Algorithm & Programming Language (A)\Coding C# Kuliah (Semester 1)\Pong Game 1 (Winform) - FINAL MODIF\Pong Game 1 (Winform)\bin\Debug\Pong Game 1 (Winform).exe
+D:\Users\jevon (Data D)\Arsip Kuliah\Arsip Semester 1\Algorithm & Programming Language (A)\Coding C# Kuliah (Semester 1)\Pong Game 1 (Winform) - FINAL MODIF\Pong Game 1 (Winform)\bin\Debug\Pong Game 1 (Winform).pdb
+D:\Users\jevon (Data D)\Arsip Kuliah\Arsip Semester 1\Algorithm & Programming Language (A)\Coding C# Kuliah (Semester 1)\Pong Game 1 (Winform) - FINAL MODIF\Pong Game 1 (Winform)\obj\Debug\Pong Game 1 (Winform).csproj.AssemblyReference.cache
+D:\Users\jevon (Data D)\Arsip Kuliah\Arsip Semester 1\Algorithm & Programming Language (A)\Coding C# Kuliah (Semester 1)\Pong Game 1 (Winform) - FINAL MODIF\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.ChooseCourtMulti.resources
+D:\Users\jevon (Data D)\Arsip Kuliah\Arsip Semester 1\Algorithm & Programming Language (A)\Coding C# Kuliah (Semester 1)\Pong Game 1 (Winform) - FINAL MODIF\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.ChooseCourt.resources
+D:\Users\jevon (Data D)\Arsip Kuliah\Arsip Semester 1\Algorithm & Programming Language (A)\Coding C# Kuliah (Semester 1)\Pong Game 1 (Winform) - FINAL MODIF\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.Form2Multi.resources
+D:\Users\jevon (Data D)\Arsip Kuliah\Arsip Semester 1\Algorithm & Programming Language (A)\Coding C# Kuliah (Semester 1)\Pong Game 1 (Winform) - FINAL MODIF\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.FormMulti.resources
+D:\Users\jevon (Data D)\Arsip Kuliah\Arsip Semester 1\Algorithm & Programming Language (A)\Coding C# Kuliah (Semester 1)\Pong Game 1 (Winform) - FINAL MODIF\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.Pong.resources
+D:\Users\jevon (Data D)\Arsip Kuliah\Arsip Semester 1\Algorithm & Programming Language (A)\Coding C# Kuliah (Semester 1)\Pong Game 1 (Winform) - FINAL MODIF\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.CharacterForm.resources
+D:\Users\jevon (Data D)\Arsip Kuliah\Arsip Semester 1\Algorithm & Programming Language (A)\Coding C# Kuliah (Semester 1)\Pong Game 1 (Winform) - FINAL MODIF\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.GameOver.resources
+D:\Users\jevon (Data D)\Arsip Kuliah\Arsip Semester 1\Algorithm & Programming Language (A)\Coding C# Kuliah (Semester 1)\Pong Game 1 (Winform) - FINAL MODIF\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.PauseOptionMulti.resources
+D:\Users\jevon (Data D)\Arsip Kuliah\Arsip Semester 1\Algorithm & Programming Language (A)\Coding C# Kuliah (Semester 1)\Pong Game 1 (Winform) - FINAL MODIF\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.PauseOption.resources
+D:\Users\jevon (Data D)\Arsip Kuliah\Arsip Semester 1\Algorithm & Programming Language (A)\Coding C# Kuliah (Semester 1)\Pong Game 1 (Winform) - FINAL MODIF\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.player1WinMulti.resources
+D:\Users\jevon (Data D)\Arsip Kuliah\Arsip Semester 1\Algorithm & Programming Language (A)\Coding C# Kuliah (Semester 1)\Pong Game 1 (Winform) - FINAL MODIF\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.player1Win.resources
+D:\Users\jevon (Data D)\Arsip Kuliah\Arsip Semester 1\Algorithm & Programming Language (A)\Coding C# Kuliah (Semester 1)\Pong Game 1 (Winform) - FINAL MODIF\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.player2WinMulti.resources
+D:\Users\jevon (Data D)\Arsip Kuliah\Arsip Semester 1\Algorithm & Programming Language (A)\Coding C# Kuliah (Semester 1)\Pong Game 1 (Winform) - FINAL MODIF\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.player2Win.resources
+D:\Users\jevon (Data D)\Arsip Kuliah\Arsip Semester 1\Algorithm & Programming Language (A)\Coding C# Kuliah (Semester 1)\Pong Game 1 (Winform) - FINAL MODIF\Pong Game 1 (Winform)\obj\Debug\Pong_Game_1__Winform_.Properties.Resources.resources
+D:\Users\jevon (Data D)\Arsip Kuliah\Arsip Semester 1\Algorithm & Programming Language (A)\Coding C# Kuliah (Semester 1)\Pong Game 1 (Winform) - FINAL MODIF\Pong Game 1 (Winform)\obj\Debug\Pong Game 1 (Winform).csproj.GenerateResource.cache
+D:\Users\jevon (Data D)\Arsip Kuliah\Arsip Semester 1\Algorithm & Programming Language (A)\Coding C# Kuliah (Semester 1)\Pong Game 1 (Winform) - FINAL MODIF\Pong Game 1 (Winform)\obj\Debug\Pong Game 1 (Winform).csproj.CoreCompileInputs.cache
+D:\Users\jevon (Data D)\Arsip Kuliah\Arsip Semester 1\Algorithm & Programming Language (A)\Coding C# Kuliah (Semester 1)\Pong Game 1 (Winform) - FINAL MODIF\Pong Game 1 (Winform)\obj\Debug\Pong Game 1 (Winform).exe
+D:\Users\jevon (Data D)\Arsip Kuliah\Arsip Semester 1\Algorithm & Programming Language (A)\Coding C# Kuliah (Semester 1)\Pong Game 1 (Winform) - FINAL MODIF\Pong Game 1 (Winform)\obj\Debug\Pong Game 1 (Winform).pdb
